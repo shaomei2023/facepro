@@ -8,8 +8,11 @@ Path: https://github.com/shaomei2023/facepro
       
 ## My environment
 Operating System for Development (Dev OS): Windows
+
 Development Tools (Dev Tool): Android Studio
+
 Programming Languages and Libraries: Dart, Flutter, Dio, Camera
+
 Target Operating System (Target OS): Android   
 
 ## Steps of Deployment 
